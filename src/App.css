@@ -1,0 +1,44 @@
+
+.App {
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    justify-content: center; 
+    height: 100vh; 
+    background-color: rgb(217, 243, 217); 
+  }
+  
+
+  .App h1 {
+    font-family: 'Baloo 2', cursive; 
+    font-size: 57px; 
+    color: green;
+    text-shadow: 2px 2px 0px green, 
+                 4px 4px 0px rgb(142, 244, 142), 
+                 6px 6px 0px green; 
+    margin-bottom: 20px;
+    transition: transform 0.3s;
+    margin-top: 80px;
+  }
+  
+  .App h1:hover {
+    transform: scale(1.1); 
+  }
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
